@@ -1,0 +1,23 @@
+{
+    "name": "panoscape/remarks",
+    "description": "Eloquent model like and dislike features for Laravel",
+    "homepage": "https://github.com/seancheung/remarks",
+    "keywords": [
+        "laravel", "like", "dislike", "thumbup", "remember"
+    ],
+    "require": {
+        "illuminate/support": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sean Cheung",
+            "email": "theoxuanx@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Panoscape\\Remarks\\": "src/"
+        }
+    }
+}
